@@ -21,7 +21,6 @@ The dashboard enables users to explore churn trends, analyze key customer segmen
 - **Power BI** – Data visualization and reporting
 - **DAX (Data Analysis Expressions)** – For calculated columns and measures
 - **Excel/CSV Dataset** – Base data source for churn records
-- *(Optional)* SQL Database / Cloud Storage if data was connected externally
 
 ---
 
@@ -36,13 +35,7 @@ Edit
 
 ---
 
-## 📷 Dashboard Preview
-*(Add screenshots of your dashboard here for better visualization)*  
 
-Example:
-```markdown
-![Dashboard Preview](images/dashboard1.png)
-![Customer Segmentation](images/dashboard2.png)
 📈 Key Insights (Expected)
 Customers with shorter tenure are more likely to churn.
 
@@ -60,7 +53,7 @@ Automate dataset refresh using Power BI Service.
 Build alert systems for churn risk customers.
 
 👤 Author
-Your Name
-📧 Email: yourname@example.com
-🌐 LinkedIn | GitHub
+Shalma W M
+📧 Email: shalmawilfred02@gmail.com
+
 
