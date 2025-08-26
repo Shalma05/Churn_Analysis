@@ -29,10 +29,6 @@ The dashboard enables users to explore churn trends, analyze key customer segmen
 ├── README.md # Project documentation
 └── Data/ # (Optional) Raw dataset(s) used
 
-yaml
-Copy
-Edit
-
 ---
 
 
